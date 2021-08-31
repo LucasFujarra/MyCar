@@ -14,7 +14,7 @@ while set == 1 :
  
   replit.clear()
   print("==============MyCar==============")
-  consumo = input(' Insira o consumo médio\n do veículo por litro \n https://combustivel.app/#home\n================================= \n::> ')
+  consumo = input(' Insira o consumo médio\n do veículo por litro \n > https://combustivel.app/#home <\n================================= \n::> ')
   replit.clear()
   print("==============MyCar==============")
   distancia = input('  Digite a distancia em Km \n================================= \n::> ')
